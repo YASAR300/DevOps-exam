@@ -10,7 +10,7 @@ To set up a Jenkins CI pipeline for a Spring Boot application, you need to:
 2. **Build using Maven**: Use the `mvn clean compile` command.
 3. **Run test cases**: Use the `mvn test` command.
 4. **Generate build artifact**: Use the `mvn package` command to create a `.jar` file in the `target/` directory.
-add
+add ho
 ### Jenkins Pipeline (Declarative Syntax)
 
 ```groovy
